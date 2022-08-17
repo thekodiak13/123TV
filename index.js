@@ -133,4 +133,5 @@ app.get('/AES.key', function (req, res) {
 })
 
 console.log(`Listening on http://${ip}:${port}`);
+console.log(`Playlist M3U: http://${ip}:${port}/playlist.m3u`);
 app.listen(port, ip)

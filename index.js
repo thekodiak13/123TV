@@ -4,8 +4,8 @@ const axios = require('axios');
 const fs = require('fs');
 
 const app = express()
-const ip = "192.168.1.11";
-const port = 3000;
+const ip = "127.0.0.1";
+const port = 6364;
 
 const customLog = (msg) => {
     let date = new Date()

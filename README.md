@@ -7,7 +7,7 @@ Install with git
 
 ```bash
   git clone https://github.com/ParrotDevelopers/123TV.git
-  cd USTVGO
+  cd 123TV
   npm install
 ```
     
